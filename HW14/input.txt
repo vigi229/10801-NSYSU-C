@@ -1,0 +1,19 @@
+5
+-5 3 9 12 7
+Dequeue
+Dequeue
+Dequeue
+Enqueue 15
+Dequeue
+Dequeue
+Dequeue
+Dequeue
+Enqueue -10
+Enqueue 9
+Dequeue
+Enqueue 123
+Enqueue -15
+Enqueue -108
+Dequeue
+Enqueue 12
+Enqueue -6
